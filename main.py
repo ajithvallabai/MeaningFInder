@@ -21,8 +21,8 @@ if __name__ == "__main__":
     wordsFile.close()
 
     # open output file
-    outputFile = open('output.txt', 'w')
     # Structure and write to file
+    outputFile = open('output.txt', 'w')
     for each in wordMeanCollector:
         subjectDict = list(wordMeanCollector[each][1].keys())
         subjectList = [''.join(ele) for ele in subjectDict]

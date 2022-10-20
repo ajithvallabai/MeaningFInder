@@ -13,5 +13,5 @@
 - You would get your output in output.txt file
 - Usefull while finding meaning for 1000's of words
 
-**Visuval**
-![Visuval Sample](./sample.png)
+**Visual**
+![Visual Sample](./sample.png)
